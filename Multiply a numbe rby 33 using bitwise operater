@@ -1,4 +1,4 @@
-# Multiply a numbe rby 33 using bitwise operater
+# Multiply a number by 33 using bitwise operater
 x=int(input("Enter a number:"))
 B=(x<<5)+x
 print(B)
