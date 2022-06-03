@@ -1,0 +1,5 @@
+a=int(input("enter the number of head:"))
+b=int(input("enter the number of foot:"))
+c=((4*a)-b)/2
+r=a-c
+print(c,r)
