@@ -1,0 +1,6 @@
+a=int(inout("enter x1"))
+b=int(input("enter x2")
+c=int(input("enter x3")
+d=int(input("enter x4")
+distance=((b-a)**2+(d-c)**2)**(1/2)
+print("distance between two cordinates")
